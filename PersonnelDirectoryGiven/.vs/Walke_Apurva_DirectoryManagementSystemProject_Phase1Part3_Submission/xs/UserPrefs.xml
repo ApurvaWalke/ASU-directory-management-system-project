@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2D280373-A49B-4A81-9521-07C9AD6455F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Walke__Apurva__DirectoryManagementSystemProject__Phase1Part3__Submission PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Walke_Apurva_DirectoryManagementSystemProject_Phase1Part3_Submission" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
