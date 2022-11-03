@@ -45,7 +45,8 @@ Violation: Stamping coupling happens when one class sends a collection or object
 
 Fix: Pass only the parameters necessary (Eg. e1.lastN, e1.firstN, e1.middleN)
 
-![image](https://user-images.githubusercontent.com/87394060/199638305-66703f93-f7a0-4523-a605-c8f0e9c71a5a.png
+![image](https://user-images.githubusercontent.com/87394060/199638399-33b9f657-3d6f-4392-8409-713fb665c328.png)
+
 
 
 
